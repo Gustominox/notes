@@ -50,11 +50,11 @@ All Markdown applications support these elements.
 
 ### Link
 
-[Git](https://github.com/Gustominox)
+[My_Git_Profile](https://github.com/Gustominox)
 
 ### Image
 
-![alt text](https://avatars.githubusercontent.com/u/59740441?s=60&v=4)
+![My_Git_Avatar](https://avatars.githubusercontent.com/u/59740441?s=60&v=4)
 
 ## Extended Syntax
 
