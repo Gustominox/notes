@@ -1,12 +1,12 @@
 # VSCode Cheat Sheet
 
 - Open command pallete: `Ctrl/cmd + Shift + P` 
-> Search for any command
+> Search for any command hello
 
 ### Global commands
 1. Toggle sidebar: `ctrl/cmd + B`
 2. Toggle Terminal: `ctrl/cmd + backtick `
-3. clear the terminal: `ctrl/cmd + K`
+3. Clear the terminal: `ctrl/cmd + K`
 4. Open settings: `ctrl/cmd + ,`
 5. Quick open a file: `ctrl/cmd + P`
 6. Tab through open files: `ctrl + tab`
@@ -19,7 +19,7 @@
 11. Zen mode: `ctrl/cmd + K Z`
 > Double `ESC` to leave or `ctrl/cmd + K Z` again
 12. Toggle comments: `Ctrl/cmd + /`
-13. Navigate Text: `Hold down alt/ctrl`
+13. Navigate Text: `Hold down CTRL + LEFT or RIGHT`
 14. Move a line of code: `ALT + UP or DOWN`
 15. Copy, cut and paste: `ctrl+c, ctrl+v, ctrl+x` 
 > For a whole line, just keep the cursor on the line
