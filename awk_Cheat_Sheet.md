@@ -2,9 +2,9 @@
  
 Commands 
 
-- `file.txt | awk '{print $1}'     `  -> **Print a 1 coluna**
-- `file.txt | awk '{print $0}'     `  -> **Print ao Ficheiro inteiro (same as cat)**
-- `file.txt | awk '{print}'        `  -> **O mesmo que o anterior**
+- `awk '{print $1}' file.txt    `  -> **Print a 1 coluna**
+- `awk '{print $0}' file.txt    `  -> **Print ao Ficheiro inteiro (same as cat)**
+- `awk '{print}' file.txt          `  -> **O mesmo que o anterior**
 - `awk -F ":" '{print $1}' file.txt`  -> **Definir limitador**
 - `awk '{print $1 $6 $7}' file.txt`        -> **Imprimir colunas 1, 6 e 7**
 - `awk '{print $1" "$6" "$7}' file.txt`    -> **Imprimir colunas 1, 6 e 7 separadas por espacos**
