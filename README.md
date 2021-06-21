@@ -1,1 +1,1 @@
-# Notes and cheat sheet whit usefull commands
+# Notes and Cheat Sheet's whit usefull commands
