@@ -5,24 +5,28 @@
 
 ### Global commands
 1. Toggle sidebar: `ctrl/cmd + B`
-2. Toggle Terminal: `ctrl/cmd + backtick ` 
-3. Open settings: `ctrl/cmd + ,`
-4. Quick open a file: `ctrl/cmd + P`
-5. Tab through open files: `ctrl + tab`
-6. Move file to split window: `Ctrl/cmd + \ `
-7. Close file: `Ctrl/cmd + W`
-8. Search/Replace file: `Ctrl/cmd + F`
-9. Global search/ Replace: `Ctrl/cmd + Shift + F`
+2. Toggle Terminal: `ctrl/cmd + backtick `
+3. clear the terminal: `ctrl/cmd + K`
+4. Open settings: `ctrl/cmd + ,`
+5. Quick open a file: `ctrl/cmd + P`
+6. Tab through open files: `ctrl + tab`
+7. Move file to split window: `Ctrl/cmd + \ `
+8. Close file: `Ctrl/cmd + W`
+9. Search/Replace file: `Ctrl/cmd + F`
+10. Global search/ Replace: `Ctrl/cmd + Shift + F`
 
 ### Navigate Code
-10. Zen mode: `ctl/cmd + K Z`
-11. Toggle comments: `Ctrl/cmd + /`
-12. Navigate Text: `Hold down alt/ctrl`
-13. Copy, cut and paste: `ctrl+c, ctrl+v, ctrl+x` 
+11. Zen mode: `ctrl/cmd + K Z`
+> Double `ESC` to leave or `ctrl/cmd + K Z` again
+12. Toggle comments: `Ctrl/cmd + /`
+13. Navigate Text: `Hold down alt/ctrl`
+14. Move a line of code: `ALT + UP or DOWN`
+15. Copy, cut and paste: `ctrl+c, ctrl+v, ctrl+x` 
 > For a whole line, just keep the cursor on the line
-14. Duplicate line: `Shift+option+up/down or Shift+alt+up/down`
-15. Mutiple cursors: `Ctrl+cmd + click` 
-16. Select word: `Ctrl/cmd + D`
-17. Select all instance of a selected word: `Ctrl/cmd + Shift + L`
-18. Rename symbol: `F2`
-19. Jump to funciton defination: `ctrl/cmd + click` 
+16. Duplicate line: `Shift+option+up/down or Shift+alt+up/down`
+17. Mutiple cursors: `Ctrl+cmd + click` 
+18. Select word: `Ctrl/cmd + D`
+> To select current word is CTRL + D, but to select subsequent same words just hit CTRL + D again.
+19. Select all instance of a selected word: `Ctrl/cmd + Shift + L`
+20. Rename symbol: `F2`
+21. Jump to funciton defination: `ctrl/cmd + click` 
