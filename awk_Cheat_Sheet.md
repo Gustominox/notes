@@ -12,7 +12,7 @@ Commands
 - `awk 'BEGIN{FS=":"; OFS=";"} {print $1" "$6" "$7}' file.txt`  -> **Definir limitador do ficheiro e o limitador do output**
 > BEGIN pattern: means that Awk will execute the action(s) specified in BEGIN once before any input lines are read.
 - `awk -F "/" '/^a/ {print $NF}' file.txt`              -> **procura por todas as linhas comecadas por 'a' e da print da ultima coluna** 
-- `awk -F "/" '/^a/ {print $NF}' file.txt | uniq | sort`-> **o mesmo que o anterior mas nao mostra repetidos e mostra por ordem alfabetica**
+- `awk -F "/" '/^a/ {print $NF}' file.txt | sort | uniq`-> **o mesmo que o anterior mas nao mostra repetidos e mostra por ordem alfabetica**
 - `df | awk '/\/dev\/loop/ {print $1"\t"$2+$3}'`        -> **procura pelas linhas com "/dev/loop" e da print da primeira coluna mais a soma da segunda com a terceira**
 - `awk 'length($0) > 7' file.txt`                       -> **Print so as linhas com length maior do que 7**
 - `awk 'if($NF == "/bin/shell") print $0' file.txt`     -> **Print das linhas cuja a ultima coluna e igual a "/bin/shell"**
