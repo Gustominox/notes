@@ -12,8 +12,10 @@
 6. Tab through open files: `ctrl + tab`
 7. Move file to split window: `Ctrl/cmd + \ `
 8. Close file: `Ctrl/cmd + W`
-9. Search/Replace file: `Ctrl/cmd + F`
-10. Global search/ Replace: `Ctrl/cmd + Shift + F`
+9. Search file: `Ctrl/cmd + F`
+9. Replace file: `Ctrl/cmd + H`
+10. Global Search: `Ctrl/cmd + Shift + F`
+10. Global Replace: `Ctrl/cmd + Shift + H`
 
 ### Navigate Code
 11. Zen mode: `ctrl/cmd + K Z`
