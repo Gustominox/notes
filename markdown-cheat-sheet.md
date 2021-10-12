@@ -70,6 +70,10 @@ Not all Markdown applications support these elements.
 
 ### Fenced Code Block
 
+| Syntax    | Description | Something |
+| - | - | - | 
+
+
 ```c
 #include <stdio.h>
 
