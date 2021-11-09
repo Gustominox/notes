@@ -31,4 +31,5 @@
 > To select current word is CTRL + D, but to select subsequent same words just hit CTRL + D again.
 19. Select all instance of a selected word: `Ctrl/cmd + Shift + L`
 20. Rename symbol: `F2`
-21. Jump to funciton defination: `ctrl/cmd + click` 
+21. Go to symbol: `ctrl/cmd + Shift + o`
+22. Jump to function defination: `ctrl/cmd + click` 
