@@ -1,7 +1,7 @@
 # VSCode Cheat Sheet
 
 - Open command pallete: `Ctrl/cmd + Shift + P` 
-> Search for any command hello
+> Search for any command
 
 ### Global commands
 1. Toggle sidebar: `ctrl/cmd + B`
