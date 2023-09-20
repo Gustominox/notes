@@ -8,6 +8,8 @@ Vim as main modes: Normal, Insert, and Visual:
 - Insert mode is for text input.
 - Visual mode is for selecting and manipulating text.
 
+------------
+
 - `:q` -> **Fecha um Ficheiro**
 - `:q!` -> **Fecha um Ficheiro, sem guardar**
 - `:wq` -> **Fecha um Ficheiro, e guarda**
