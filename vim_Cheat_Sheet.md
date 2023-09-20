@@ -2,6 +2,12 @@
  
 Commands 
 
+Vim as main modes: Normal, Insert, and Visual:
+
+- Normal mode is for navigation and commands.
+- Insert mode is for text input.
+- Visual mode is for selecting and manipulating text.
+
 - `:q` -> **Fecha um Ficheiro**
 - `:q!` -> **Fecha um Ficheiro, sem guardar**
 - `:wq` -> **Fecha um Ficheiro, e guarda**
@@ -10,18 +16,22 @@ Commands
 - `x` -> **delete char**
 - `dd` -> **delete line**
 - `u` -> **undo**, `ctrl + r` -> **redo**
-- `:nLinha` -> **avanca para a linha "nLinha"**
-- `o` -> **insert line bellow**
-- `w` -> **go to next word**
-- `b` -> **go to last word**
-- `yy` -> **copy line**
-- `p` -> **paste line**
-- `I` -> **Insert in the begining of the line**
-- `A` -> **Insert in the end of the line**
-- `(shift + g)` -> **Insert in the end of the line**
 
+- `:nLinha` -> **Avanca para a linha "nLinha"**
+- `o` -> **Insert line bellow**
+- `w` -> **Go to next word**
+- `b` -> **Go to last word**
+- `yy` -> **Copy line**
+- `p` -> **Paste line**
+- `I (shift + i)` -> **Insert in the begining of the line**
+- `A (shift + a)` -> **Insert in the end of the line**
+- `G (shift + g)` -> **Go to the end of the file**
 
 - `:!Shell comand` por exemplo `:!gcc *.c` 
+
+
+
+
 
 - `awk '{print $0}' file.txt    `  -> **Print ao Ficheiro inteiro (same as cat)**
 - `awk '{print}' file.txt          `  -> **O mesmo que o anterior**
