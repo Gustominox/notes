@@ -9,11 +9,19 @@ Commands
 - `r` -> **replace char**
 - `x` -> **delete char**
 - `dd` -> **delete line**
-- `u` -> **undo** `ctrl + r`, -> **redo**
+- `u` -> **undo**, `ctrl + r` -> **redo**
 - `:nLinha` -> **avanca para a linha "nLinha"**
 - `o` -> **insert line bellow**
 - `w` -> **go to next word**
-- `i` -> ****
+- `b` -> **go to last word**
+- `yy` -> **copy line**
+- `p` -> **paste line**
+- `I` -> **Insert in the begining of the line**
+- `A` -> **Insert in the end of the line**
+- `(shift + g)` -> **Insert in the end of the line**
+
+
+- `:!Shell comand` por exemplo `:!gcc *.c` 
 
 - `awk '{print $0}' file.txt    `  -> **Print ao Ficheiro inteiro (same as cat)**
 - `awk '{print}' file.txt          `  -> **O mesmo que o anterior**
