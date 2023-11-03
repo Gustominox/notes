@@ -1,6 +1,6 @@
 # C Sharp Advanced Course, Celfinet Interview
 
-[Support Video to course](https://www.youtube.com/watch?v=YT8s-90oDC0&list=WL&index=34)
+[Support Video to Course](https://www.youtube.com/watch?v=YT8s-90oDC0&list=WL&index=34)
 
 ## LINQ - Language Intregated Query
 
